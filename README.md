@@ -13,7 +13,7 @@ Share your notebook through GitHub
 Open Jupyter Notebook or Google Colab
 Create a new notebook and name it Final_Assignment.ipynb
 2. Insert Code and Markdown Cells
-**Markdown Cells:****
+**Markdown Cells:**
 
 Add a title (# Final Assignment)
 Write an introduction
